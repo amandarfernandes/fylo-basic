@@ -110,7 +110,7 @@ h3 {
   width: 100%;
   padding: 2rem 4rem 15rem;
   display:flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   clip-path: polygon(0% 0%,100% 0%, 100% 100%, 0% 80%);
 }
